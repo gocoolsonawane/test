@@ -9,5 +9,8 @@ public class Test {
 
 		B b = new B();
 		b.cal();
+		
+		C c=new C();
+		c.m1();
 	}
 }
